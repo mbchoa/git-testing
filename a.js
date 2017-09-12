@@ -1,1 +1,1 @@
-const string = 'Change a.js in feature-1 branch';
+const string = 'Change a.js in master branch';
